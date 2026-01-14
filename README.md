@@ -14,7 +14,7 @@ A Hytale plugin that implements the Votifier V2 protocol to reward players for v
 ## Installation
 
 1. Download `VoteRewards-1.0.0.jar`
-2. Place it in your Hytale server's `plugins` folder
+2. Place it in your Hytale server's `mods` folder
 3. Start/restart your server
 4. Configure the plugin (see Configuration section)
 
