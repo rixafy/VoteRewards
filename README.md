@@ -20,7 +20,7 @@ A Hytale plugin that implements the Votifier V2 protocol to reward players for v
 
 ## Configuration
 
-On first run, the plugin creates `Delacry_VoteRewards/config.json`:
+On first run, the plugin creates `Hytalist_VoteRewards/config.json`:
 
 ```json
 {
