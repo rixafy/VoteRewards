@@ -32,7 +32,7 @@ On first run, the plugin creates `Hytalist_VoteRewards/config.json`:
     "give {player} emerald 5"
   ],
   "BroadcastVotes": true,
-  "BroadcastMessage": "&a{player} &7has voted for the server! &e/vote",
+  "BroadcastMessage": "{player} has voted for the server! Thank you!",
   "DebugMode": false
 }
 ```
